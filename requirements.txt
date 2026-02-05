@@ -7,6 +7,4 @@ requests
 pydantic
 scipy
 soundfile
-torch
-transformers
 python-dotenv
