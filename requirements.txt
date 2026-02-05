@@ -2,11 +2,11 @@ fastapi
 uvicorn
 python-multipart
 librosa
-soundfile
 numpy
 requests
 pydantic
 scipy
+soundfile
 torch
 transformers
 python-dotenv
